@@ -1,0 +1,429 @@
+,Server Node
+0,ASUS ESC4000-E11 
+1,ASUS ESC8000 G4
+2,ASUS RS700-E10
+3,ASUS RS700-E9
+4,ASUS RS700A-E12
+5,ASUS RS700A-E9V2
+6,ASUS RS720-E10
+7,ASUS RS720-E10-RS12
+8,ASUS RS720-E11
+9,ASUS RS720-E11-RS12U 
+10,ASUS RS720-E11-RS12U
+11,ASUS RS720-E9
+12,ASUS RS720A-E11
+13,ASUS RS720A-E12-RS12 
+14,ASUS RS720A-E13-RS8U 
+15,ASUS RS720Q-E9
+16,ASUS WS C621E SAGE Server System 
+17,Cisco UCS B200 M5 
+18,Cisco UCS B200 M6 
+19,Cisco UCS B480 M5 
+20,Cisco UCS C220 M5 
+21,Cisco UCS C220 M6 
+22,Cisco UCS C220 M7 
+23,Cisco UCS C225 M6 
+24,Cisco UCS C240 M5 
+25,Cisco UCS C240 M6 
+26,Cisco UCS C240 M7 
+27,Cisco UCS C240 M8 
+28,Cisco UCS C245 M6 
+29,Cisco UCS C245 M8 
+30,Cisco UCS C480 M5 
+31,Cisco UCS X210 M7 
+32,Cisco UCS X210C M7 
+33,Cisco UCS X210c M6 
+34,Cisco UCS X210c M7 
+35,Cisco UCS X215 M8 
+36,Cisco UCS X215c M8 
+37,Cisco UCS X410c M7 
+38,SR230-2 
+39,PowerEdge C6420 
+40,PowerEdge C6520 
+41,PowerEdge C6525 
+42,PowerEdge C6620 
+43,PowerEdge FC640 
+44,PowerEdge FC740 
+45,PowerEdge HS5610 
+46,PowerEdge HS5620 
+47,PowerEdge M640 
+48,PowerEdge M7725 
+49,PowerEdge MX640 
+50,PowerEdge MX740 
+51,PowerEdge MX740C 
+52,PowerEdge MX740c 
+53,PowerEdge MX750c 
+54,PowerEdge MX760c 
+55,PowerEdge MX840 
+56,PowerEdge MX840C 
+57,PowerEdge MX840c 
+58,PowerEdge Mx740 
+59,PowerEdge R440 
+60,PowerEdge R450 
+61,PowerEdge R540 
+62,PowerEdge R550 
+63,PowerEdge R640 
+64,PowerEdge R650 
+65,PowerEdge R650xs 
+66,PowerEdge R6525 
+67,PowerEdge R660 
+68,PowerEdge R660xs 
+69,PowerEdge R6625 
+70,PowerEdge R670 
+71,PowerEdge R6725 
+72,PowerEdge R740 
+73,PowerEdge R740xd 
+74,PowerEdge R740xd2 
+75,PowerEdge R7425 
+76,PowerEdge R750 
+77,PowerEdge R750 xa 
+78,PowerEdge R750xa 
+79,PowerEdge R750xs 
+80,PowerEdge R7525 
+81,PowerEdge R760 
+82,PowerEdge R760xa 
+83,PowerEdge R760xd2 
+84,PowerEdge R760xs 
+85,PowerEdge R7625 
+86,PowerEdge R770 
+87,PowerEdge R7725 
+88,PowerEdge R840 
+89,PowerEdge R860 
+90,PowerEdge R940 
+91,PowerEdge R960 
+92,PowerEdge T440 
+93,PowerEdge T550 
+94,PowerEdge T560 
+95,PowerEdge T640 
+96,PowerEdge XE7740 
+97,PowerEdge XE7745 
+98,PowerEdge XE8640 
+99,PowerEdge XE9640 
+100,PowerEdge XE9680 
+101,PowerEdge XR7620 
+102,eterio 217 RZ1 
+103,Hexadata HD-RS3000 Ver: ILX-002 
+104,Hexadata HD-RS4000 Ver: SPR-002 
+105,Hexadata HDR-RM2386212I 
+106,Hexadata HDR-RM2386212I Ver: ILX-002 
+107,Hexadata HDR-RM2386212I Ver: SPR-002 
+108,PRIMEQUEST 3800B2
+109,PRIMEQUEST 4400E
+110,PRIMERGY CX2550 M5
+111,PRIMERGY CX2550 M6
+112,PRIMERGY CX2560 M6
+113,PRIMERGY RX2450 M2
+114,PRIMERGY RX2530 M7
+115,PRIMERGY RX2540 M4
+116,PRIMERGY RX2540 M6
+117,PRIMERGY RX2540 M7
+118,PRIMERGY RX4770 M6
+119,PRIMERGY RX4770 M7
+120,Invento i6000 
+121,Invento i6000 EPYC 
+122,R282-Z90 
+123,ProLiant BL460c Gen10 
+124,ProLiant Compute DL360 Gen12 
+125,ProLiant Compute DL380 Gen12 
+126,ProLiant Compute DL380a Gen12 
+127,ProLiant Compute ML350 Gen12 
+128,ProLiant DL160 Gen10 
+129,ProLiant DL360 Gen10 
+130,ProLiant DL360 Gen10 Plus 
+131,ProLiant DL360 Gen11 
+132,ProLiant DL360 Gen12 
+133,ProLiant DL365 Gen10 Plus 
+134,ProLiant DL365 Gen10 Plus v2 
+135,ProLiant DL365 Gen10 Plus v2 AMD EPYC 7373X
+136,ProLiant DL365 Gen11 
+137,ProLiant DL380 Gen10 
+138,ProLiant DL380 Gen10 Plus 
+139,ProLiant DL380 Gen11 
+140,ProLiant DL380 Gen12 
+141,ProLiant DL380a Gen11 
+142,ProLiant DL380a Gen12 
+143,ProLiant DL385 Gen10 
+144,ProLiant DL385 Gen10 Plus 
+145,ProLiant DL385 Gen10 Plus v2 
+146,ProLiant DL385 Gen11 
+147,ProLiant DL560 Gen10 
+148,ProLiant DL560 Gen11 
+149,ProLiant DL580 Gen10 
+150,ProLiant ML350 Gen10 
+151,ProLiant ML350 Gen11 
+152,ProLiant ML350 Gen12 
+153,ProLiant XL225n Gen10 Plus 
+154,ProLiant XL420 Gen9 
+155,Superdome Flex 280 
+156,Synergy 480 Gen10 
+157,Synergy 480 Gen10 Plus 
+158,Synergy 660 Gen10 
+159,Advanced Server DS220 
+160,Huawei 1288H V5 
+161,Huawei 2288 V5 
+162,Huawei 2288H V5 
+163,Huawei 2288H V6 
+164,Huawei 2488 V5 
+165,Huawei 2488H V5 
+166,Huawei 2488H V6 
+167,Huawei 5288 V5 
+168,Huawei 5885H V5 
+169,Huawei CH121 V5 
+170,Huawei CH225 V5  
+171,Huawei CH225 V5 
+172,Huawei CH242 V5 
+173,Huawei G530 V5 
+174,Huawei G560 V5 
+175,Huawei XH321 V5 
+176,Huawei XH628 V5 
+177,NF5180A7 
+178,NF5180M7 
+179,NF5280A7 
+180,NF5280M7 
+181,NF5466M7 
+182,NF5688M7 
+183,Inspur NE5260M5 
+184,Inspur NF5180M6 
+185,Inspur NF5280M5 
+186,Inspur NF5280M6 
+187,Inspur NF5288M5 
+188,Inspur NF5466M5 
+189,Inspur NF5488M5 
+190,Inspur NF8260M5 
+191,Inspur NF8260M6 
+192,Inspur NF8480M5 
+193,Inspur NF8480M6 
+194,N5468A7 
+195,NF5266M7 
+196,NF5280M6 
+197,NF8260M7 
+198,NF8480M7 
+199,Lenovo System x3650 M5 
+200,ThinkServer SR660 V2 
+201,ThinkSystem SD530 
+202,ThinkSystem SD530 V3 
+203,ThinkSystem SD550 V3 
+204,ThinkSystem SD630 V2 
+205,ThinkSystem SD650 
+206,ThinkSystem SD650 V2 
+207,ThinkSystem SD650 V3 
+208,ThinkSystem SD665 V3 
+209,ThinkSystem SN550 
+210,ThinkSystem SN550 V2 
+211,ThinkSystem SN850 
+212,ThinkSystem SR530 
+213,ThinkSystem SR550 
+214,ThinkSystem SR570 
+215,ThinkSystem SR590 
+216,ThinkSystem SR630 
+217,ThinkSystem SR630 V2 
+218,ThinkSystem SR630 V3 
+219,ThinkSystem SR630 V4 
+220,ThinkSystem SR645 
+221,ThinkSystem SR645 2.00 GHz
+222,ThinkSystem SR645 2.20 GHz
+223,ThinkSystem SR645 2.25 GHz
+224,ThinkSystem SR645 2.30 GHz
+225,ThinkSystem SR645 2.35 GHz
+226,ThinkSystem SR645 2.40 GHz
+227,ThinkSystem SR645 2.45 GHz
+228,ThinkSystem SR645 2.50 GHz
+229,ThinkSystem SR645 2.60 GHz
+230,ThinkSystem SR645 2.65 GHz
+231,ThinkSystem SR645 2.75 GHz
+232,ThinkSystem SR645 2.80 GHz
+233,ThinkSystem SR645 2.85 GHz
+234,ThinkSystem SR645 2.90 GHz
+235,ThinkSystem SR645 2.95 GHz
+236,ThinkSystem SR645 3.00 GHz
+237,ThinkSystem SR645 3.05 GHz
+238,ThinkSystem SR645 3.10 GHz
+239,ThinkSystem SR645 3.20 GHz
+240,ThinkSystem SR645 3.50 GHz
+241,ThinkSystem SR645 3.70 GHz
+242,ThinkSystem SR645 V3 
+243,ThinkSystem SR650 
+244,ThinkSystem SR650 V2 
+245,ThinkSystem SR650 V3 
+246,ThinkSystem SR650 V4 
+247,ThinkSystem SR665 
+248,ThinkSystem SR665 2.00 GHz
+249,ThinkSystem SR665 2.20 GHz
+250,ThinkSystem SR665 2.25 GHz
+251,ThinkSystem SR665 2.30 GHz
+252,ThinkSystem SR665 2.35 GHz
+253,ThinkSystem SR665 2.40 GHz
+254,ThinkSystem SR665 2.45 GHz
+255,ThinkSystem SR665 2.50 GHz
+256,ThinkSystem SR665 2.60 GHz
+257,ThinkSystem SR665 2.65 GHz
+258,ThinkSystem SR665 2.75 GHz
+259,ThinkSystem SR665 2.80 GHz
+260,ThinkSystem SR665 2.85 GHz
+261,ThinkSystem SR665 2.90 GHz
+262,ThinkSystem SR665 2.95 GHz
+263,ThinkSystem SR665 3.00 GHz
+264,ThinkSystem SR665 3.05 GHz
+265,ThinkSystem SR665 3.10 GHz
+266,ThinkSystem SR665 3.20 GHz
+267,ThinkSystem SR665 3.50 GHz
+268,ThinkSystem SR665 3.70 GHz
+269,ThinkSystem SR665 V3 
+270,ThinkSystem SR665 V3 2.40 GHz
+271,ThinkSystem SR675 V3 
+272,ThinkSystem SR685a V3 
+273,ThinkSystem SR850 
+274,ThinkSystem SR850 V2 
+275,ThinkSystem SR850 V3 
+276,ThinkSystem SR850P 
+277,ThinkSystem SR860 
+278,ThinkSystem SR860 V2 
+279,ThinkSystem SR860 V3 
+280,ThinkSystem SR950 
+281,ThinkSystem SR950 V3 
+282,ThinkSystem ST550 
+283,ThinkSystem ST650 V2 
+284,ThinkSystem ST650 V3 
+285,Thinksystem SR950 
+286,Express5800
+287,R620 G30 
+288,R620 G40
+289,R620 G50 
+290,R620 G50 LP 
+291,H3C UniServer B5700 G3 
+292,H3C UniServer B5700 G5 
+293,H3C UniServer R4300 G3 
+294,H3C UniServer R4300 G5 
+295,H3C UniServer R4300 G6 
+296,H3C UniServer R4700 G6 
+297,H3C UniServer R4900 G3 
+298,H3C UniServer R4900 G5 
+299,H3C UniServer R4900 G6 
+300,H3C UniServer R4900 G6 Ultra 
+301,H3C UniServer R4900 G7 
+302,H3C UniServer R5300 G5 
+303,H3C UniServer R5500 G5 
+304,H3C UniServer R6700 G3 
+305,H3C UniServer R6900 G3 
+306,H3C UniServer R6900 G5 
+307,H3C UniServer R6900 G6 
+308,H3C UniServer R8900 G3 
+309,D54Q-2U 
+310,D55Q-2U 
+311,QuantaGrid D43K-1U 
+312,QuantaGrid D44N-1U 
+313,QuantaGrid D44N-1U AMD EPYC 9755
+314,QuantaGrid D53XQ-2U
+315,Sun Fire V490
+316,A+ Server 1023US-TR4 
+317,A+ Server 1024US-TRT 
+318,A+ Server 1123US-TR4 
+319,A+ Server 2023US-TR4 
+320,A+ Server 2024US-TRT 
+321,A+ Server 2124BT-HNTR 
+322,A+ Server 2124BT-HTR 
+323,A+ Server 2124US-TNRP 
+324,A+ Server AS-1125HS-TNR 
+325,AI Training SuperServer SYS-822GA-NGR3 
+326,CloudDC SuperServer SYS-222C-TN 
+327,GPU SuperServer SYS-522GA-NRT 
+328,GPU SuperServer SYS-741GE-TNRT 
+329,Hyper A+ Server AS -2025HS-TNR 
+330,Hyper A+ Server AS -2126HS-TN 
+331,Hyper SuperServer SYS-221H-TN24R 
+332,MP SuperServer SYS-240P-TNRT 
+333,Mainstream A+ Server AS -2024S-TR 
+334,Mainstream SuperServer SYS-621P-TRT 
+335,SYS-620U-TNR 
+336,SuperServer 1029U-TR4 
+337,SuperServer 2029TP-HTR 
+338,SuperServer 2029U-TR4 
+339,SuperServer 2029UZ-TN20R25M X11DPU-Z+ 
+340,SuperServer 2049U-TR4
+341,SuperServer 2049U-TR4 
+342,SuperServer 6019P-WT 
+343,SuperServer 6029U-TR4 
+344,SuperServer SSG-121E-NES24R 
+345,SuperServer SSG-620P-E1CR24L 
+346,SuperServer SYS-121H-TNR 
+347,SuperServer SYS-122HA-TN-LCC 
+348,SuperServer SYS-221H-TNR 
+349,SuperServer SYS-240P-TNRT 
+350,SuperServer SYS-420GP-TNR 
+351,SuperServer SYS-620U-TNR 
+352,SuperServer SYS-621C-TN12R 
+353,SuperServer SYS-621H-TN12R 
+354,SuperServer SYS-681E-TR 
+355,SuperServer SYS-740GP-TNRT 
+356,SuperServer SYS-741GE-TNRT 
+357,SuperStorage 6029P-E1CR24H 
+358,SuperWorkstation 7049GP-TRT 
+359,SuperWorkstation 740GP-TNRT 
+360,
+361,AD400TR-28
+362,DIT400TR-28RL 
+363,DIT400TR-48RL 
+364,DIT400TR-55R
+365,DIT400TR-55RL 
+366,DS400TG-424RT 
+367,DS400TN-28
+368,DS400TOG-424RT2 
+369,DS400TR-54
+370,Tyrone Camarero DAS700TU-212RT 
+371,Tyrone Camarero DIT400TR-28R 
+372,Tyrone Camarero DIT400TR-28RL 
+373,Tyrone Camarero DIT400TR-436R 
+374,Tyrone Camarero DIT400TR-48RL 
+375,Tyrone Camarero DIT400TR-55RL 
+376,Tyrone Camarero DS400E1U-224R4 
+377,Tyrone Camarero DS400TG-48R 
+378,Tyrone Camarero DS400TN-55R 
+379,Tyrone Camarero DS400TOG-424RT2 
+380,Tyrone Camarero DS400TR-212R4 
+381,Tyrone Camarero IDI100C2R-28 
+382,Tyrone Camarero QS400TU-224R4 
+383,Tyrone Camarero SDA200A2N-18 
+384,Tyrone Camarero SDA200A2N-212 
+385,Tyrone Camarero SDI100A2G-210 
+386,Tyrone Camarero SDI100A2G-424 
+387,Tyrone Camarero SDI100A2R-22 
+388,Tyrone Camarero SDI100A3TB-26 
+389,Tyrone Camarero SDI100A3U-212 
+390,Tyrone Camarero SDI100C2R-14 
+391,Tyrone Camarero SDI100C2R-210 
+392,Tyrone Camarero SDI100C2R-28 
+393,Tyrone Camarero SDI100C3R-212 
+394,Tyrone Camarero SDI100C3R-28 
+395,Tyrone Camarero SDI200A2N-18 
+396,Tyrone Camarero SDI200A3N-18 
+397,Tyrone Camarero SDI200A3N-212 
+398,Tyrone Camarero SDI200C2G-28 
+399,Tyrone Camarero SDI200C2G-48 
+400,Tyrone Camarero SDI200C3R-28 
+401,Tyrone Camarero SQI200A2R-224 
+402,Tyrone Camarero TDI100C3R-212 
+403,FusionServer 1258H V7 
+404,FusionServer 1288H V6 
+405,FusionServer 1288H V7 
+406,FusionServer 2258 V7 
+407,FusionServer 2258H V7 
+408,FusionServer 2288H V6 
+409,FusionServer 2288H V7 
+410,FusionServer 2288H V8 
+411,FusionServer 2488H V6 
+412,FusionServer 2488H V7 
+413,FusionServer 5288 V7 
+414,FusionServer 5885H V6 
+415,FusionServer 5885H V7 
+416,FusionServer G8600 V7 
+417,xFusion 1288H V5 
+418,xFusion 1288H V6 
+419,xFusion 2288H V5 
+420,xFusion 2288H V6 
+421,xFusion 2488H V5 
+422,xFusion 2488H V6 
+423,xFusion 5288 V5 
+424,xFusion 5288 V6 
+425,xFusion 5885H V5 
+426,xFusion 9008 V5
+427,xFusion XH321 V6
