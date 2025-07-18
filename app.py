@@ -19,27 +19,6 @@ MEM_COL = "Memory Bandwidth (GB/s)"
 EFF_COL = 'Efficiency'
 LABELS =['2-16 Cores', '17-32 Cores', '33-64 Cores', '65-128 Cores', '129-256 Cores', '257+ Cores']
 # --- Data Generation Function ---
-# This simulates loading your data from a source like a CSV.
-@st.cache_data # Streamlit's cache for performance
-def generate_sample_data():
-    """Generates a sample DataFrame similar to the one in the HTML file."""
-    core_counts = [256, 4, 6, 8, 2, 12, 16, 18, 14, 10, 20, 26, 28, 22, 24, 32, 36, 40, 64, 48, 56, 44, 52, 60, 96, 112, 72, 128, 76, 80, 86, 144, 84, 224, 192, 160, 88, 104, 120, 172, 288, 168, 196, 384, 320, 240, 208, 480]
-    systems = ['System A', 'System B', 'System C', 'System D', 'System E']
-    data = []
-    for i in range(250):
-        chips = np.random.choice(core_counts)
-        mem = 50 + np.random.rand() * 750
-        scaling = (chips * (1 - mem / 2000)) * (0.8 + np.random.rand() * 0.4)
-        efficiency = np.random.rand()
-        data.append({
-            '# Cores': chips,
-            'Memory Bandwidth (GB/s)': mem,
-            'Scaling': max(1, scaling),
-            'Efficiency': efficiency,
-            'System': f"{np.random.choice(systems)}-{i}"
-        })
-    return pd.DataFrame(data)
-
 # --- Data Processing and Binning ---
 def process_data(df):
     """Adds a 'Core Group' column for binning."""
@@ -58,8 +37,8 @@ def process_data(df):
 try:
     df = pd.read_csv('data/processed_data.csv')
 except FileNotFoundError:
-    st.warning("`processed_data.csv` not found. Using sample data instead.")
-    df = generate_sample_data()
+    st.error("`processed_data.csv` not found.")
+    exit()
 
 df = process_data(df)
 
@@ -94,11 +73,11 @@ y_axis_col = st.sidebar.selectbox(
     index=y_cols.index(default_y)
 )
 
-colour_groups = ['Core Count', 'Brand']
+colour_groups = ['Core Group', 'Brand']
 selected_colour_groups = st.sidebar.selectbox(
     'Select Grouping:',
     options=colour_groups,
-    index=colour_groups.index(colour_groups[0])
+    index=colour_groups.index(colour_groups[1])
 )
 
 
