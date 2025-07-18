@@ -65,7 +65,7 @@ df = process_data(df)
 
 # 2. Setup the UI (Title and Sidebar)
 st.title("CPU2017 Analyzer")
-f = open("writeup.md")
+f = open("assets/writeup.md")
 st.markdown(f.read())
 f.close()
 
