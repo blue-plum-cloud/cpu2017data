@@ -198,7 +198,7 @@ for group_name in selected_groups:
 
 # 5. Configure the layout of the plot
 fig.update_layout(
-    title=f'{y_axis_col} vs. {x_axis_col}, grouped by Core Count',
+    title=f'{y_axis_col} vs. {x_axis_col}, grouped by {category}',
     xaxis_title=x_axis_col,
     yaxis_title=y_axis_col,
     legend_title='Core Count Groups',
@@ -207,7 +207,7 @@ fig.update_layout(
 )
 
 fig2.update_layout(
-    title=f'Efficiency vs. Scaling, grouped by Core Count',
+    title=f'Efficiency vs. Scaling, grouped by {category}',
     xaxis_title='Scaling',
     yaxis_title='Efficiency',
     legend_title='Core Count Groups',
